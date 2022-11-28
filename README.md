@@ -1,4 +1,4 @@
-[![MasterHead](https://i.pinimg.com/originals/16/03/fb/1603fb7077abb9093f4af305b4e5ce79.gif)](https://i.pinimg.com/originals/16/03/fb/1603fb7077abb9093f4af305b4e5ce79.gif)
+[![MasterHead]([https://i.pinimg.com/originals/16/03/fb/1603fb7077abb9093f4af305b4e5ce79.gif](https://mir-s3-cdn-cf.behance.net/project_modules/1400/34220e95746151.5e9ecde696cb0.gif))]
 
 <h1 align="center">Hi 👋, I'm Yu Quan</h1>
 <h3 align="center">A Junior Software Developer From Singapore</h3>
