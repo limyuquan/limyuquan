@@ -28,6 +28,6 @@
 - [Stock Trading and Finance Dashboard Web Application](https://github.com/limyuquan/finance)
 - [E-Commerce Web Application](https://github.com/limyuquan/Auctions-and-E-Commerce-Web-Application)
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=limyuquan&show_icons=true&locale=en" alt="limyuquan" /></p>
+<p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=limyuquan&show_icons=true&locale=en" alt="limyuquan" /></p>
 
 
