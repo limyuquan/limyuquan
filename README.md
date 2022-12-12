@@ -26,8 +26,9 @@
   
 ### My Recent Project Repositories:
 - [Price Tracker](https://github.com/limyuquan/pricetracker)
-- [Stock Trading and Finance Dashboard Web Application](https://github.com/limyuquan/finance)
 - [E-Commerce Web Application](https://github.com/limyuquan/Auctions-and-E-Commerce-Web-Application)
+- [Stock Trading and Finance Dashboard Web Application](https://github.com/limyuquan/finance)
+- [Email Web Application with Responsive Front End](https://github.com/limyuquan/mailing-webapp)
 
 
 
