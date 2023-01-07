@@ -33,8 +33,8 @@
 - [Stock Trading and Finance Dashboard Web Application](https://github.com/limyuquan/finance)
 - [Email Web Application with Responsive Front End](https://github.com/limyuquan/mailing-webapp)
 
-<p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=limyuquan&show_icons=true&locale=en&layout=compact" alt="limyuquan" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=limyuquan&show_icons=true&locale=en&layout=compact" alt="limyuquan" /></p>
 
-<p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=limyuquan&show_icons=true&locale=en" alt="limyuquan" /></p>
+<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=limyuquan&show_icons=true&locale=en" alt="limyuquan" /></p>
 
 
