@@ -6,7 +6,7 @@
 
 - 👁️ View my **[Portfolio](https://limyuquan.com)**
 
-- 🗏 View my **[Resume](https://drive.google.com/file/d/1hjYaN7wLbhp_ipqHo_Kq4h8iim4eILju/view?usp=sharing)**
+- 🗏 View my **[Resume](https://drive.google.com/file/d/1_PcJl0uA8baxKmOceKvh0fvzlIPqYwhc/view?usp=sharing)**
 
 - 👨‍💻 All of my projects are available at **[my GitHub Repository](https://github.com/limyuquan?tab=repositories)**
 
